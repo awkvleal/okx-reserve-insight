@@ -14,8 +14,6 @@ But here's the thing: they told everyone ahead of time.
 
 The exchange posted a simple heads-up on Twitter: "Due to wallet maintenance, we'll be transferring coins and tokens between our wallet addresses over the next 24 hours. Large transfers will be seen in our wallets. Your funds are safe."
 
-![OKX announces wallet maintenance and large transfers between addresses](image/282878564027.webp)
-
 Now, in the post-FTX world, any large exchange movement makes people nervous. And rightfully so. But this wasn't a sketchy middle-of-the-night drain. This was part of something more systematic: their Proof of Reserves effort.
 
 ## What's Actually Happening With Proof of Reserves
